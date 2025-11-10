@@ -6,6 +6,7 @@ import time
 
 # go to https://platform.openai.com/, login, go to chat create chat with two variable values customer_name and product, save prompt as reusable prompt, 
 # get prompt id and version and use below code to call it
+# Load environment variables
 
 
 load_dotenv()
