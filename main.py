@@ -8,7 +8,7 @@ from typing import List, Optional, Dict, Any
 from dotenv import load_dotenv
 from openai import OpenAI
 from example1 import run_example1
-
+from example3 import run_example3
 class OpenAIClient:
     """
     A wrapper class for OpenAI API operations
